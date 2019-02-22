@@ -72,8 +72,4 @@ print(po_p2)
 # to make this a more enjoyable experience :)
 
 # Jeff S.
-# 781 956 6656 (cell)
-# jcschind@uvm.edu
-# jeff.c.schindler@gmail.com
 # jcschindler17@gmail.com
-# /u/sparklebubblez29_5
